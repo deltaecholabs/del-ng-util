@@ -1,0 +1,30 @@
+{
+  "name": "del-ng-util",
+  "version": "0.0.1",
+  "description": "A package of utilities for Angular development",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/deltaecholabs/del-ng-util.git"
+  },
+  "keywords": [
+    "Angular",
+    "TypeScript"
+  ],
+  "author": "snimmo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltaecholabs/del-ng-util/issues"
+  },
+  "homepage": "https://github.com/deltaecholabs/del-ng-util#readme",
+  "dependencies": {
+    "@angular/common": "^17.0.5"
+  }
+}
